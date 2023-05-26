@@ -14,7 +14,7 @@
         <java.version>1.8</java.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <springtools.version>2.1.8.RELEASE</springtools.version>
+        <springtools.version>2.5.15</springtools.version>
     </properties>
 
     <dependencies>
